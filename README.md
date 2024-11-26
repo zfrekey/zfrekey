@@ -45,9 +45,9 @@ Descrição
 
 ---
 
-## 📈 Estatísticas
+## 📈 Informações
 
-- 🌐 **Mais de 3 anos de experiência como desenvolvedor backend.**
+- 🌐 **Atualmente cursando o 2º de 8 períodos na faculdade**
 - 📚 Estudando constantemente boas práticas e performance em sistemas backend.
 - 🛠️ Contribuições para projetos open-source e colaboração em equipe.
 
