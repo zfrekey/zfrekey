@@ -55,7 +55,7 @@ Descrição
 
 ## 📫 Entre em Contato
 
-- **LinkedIn**: [linkedin.com/in/seu-usuario](https://linkedin.com/in/filype-abreu-07145a2a8/)
+- **LinkedIn**: [linkedin.com/in/seu-usuario](https://linkedin.com/in/filype-abreu)
 - **E-mail**: filype.abreu@gmail.com
 - **Portfólio**: [seusite.com](https://seusite.com)
 
