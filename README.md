@@ -17,7 +17,8 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor backend apaixonado por tecn
   - Flask / Django (Python)
   
 - **Banco de Dados**:
-
+  - MySQL
+  - MongoDB
 ---
 
 ## 🚀 Sobre Mim
