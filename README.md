@@ -14,19 +14,15 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor backend apaixonado por tecn
   - HTML5 & CSS3
 
 - **Frameworks e Bibliotecas**:
-  - Express.js (Node.js)
   - Flask / Django (Python)
   
 - **Banco de Dados**:
-  - MySQL
-  - PostgreSQL
-  - MongoDB
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um entusiasta da programação backend, sempre buscando otimizar sistemas, resolver problemas complexos e criar aplicações escaláveis. Tenho experiência em **design de APIs RESTful**, gerenciamento de banco de dados, e implementações de lógica de negócios robustas.
+Sou um entusiasta da programação backend, sempre buscando otimizar sistemas, resolver problemas complexos e criar aplicações escaláveis.
 
 Além de trabalhar no backend, gosto de aprender sobre novas tecnologias e colaborar com a comunidade de desenvolvedores.
 
@@ -47,7 +43,7 @@ Descrição
 
 ## 📈 Informações
 
-- 🌐 **Atualmente cursando o 2º de 8 períodos na faculdade**
+- 🌐 **Atualmente cursando o 3º de 8 períodos na faculdade**
 - 📚 Estudando constantemente boas práticas e performance em sistemas backend.
 - 🛠️ Contribuições para projetos open-source e colaboração em equipe.
 
