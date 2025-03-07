@@ -10,15 +10,17 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor backend apaixonado por tecn
   - Python
   - C / C++
   - SQL
-  - JavaScript (Node.js)
+  - TypeScript / JavaScript (Node.js)
   - HTML5 & CSS3
 
 - **Frameworks e Bibliotecas**:
-  - Flask / Django (Python)
+  - Fastify
+  - React.js
   
 - **Banco de Dados**:
-  - MySQL
+  - SQLite
   - MongoDB
+  - Prisma (ORM)
 ---
 
 ## 🚀 Sobre Mim
