@@ -46,7 +46,7 @@ Descrição
 
 ## 📈 Informações
 
-- 🌐 **Atualmente cursando o 3º de 8 períodos na faculdade**
+- 🌐 **Atualmente cursando o 4º de 8 períodos na faculdade**
 - 📚 Estudando constantemente boas práticas e performance em sistemas backend.
 - 🛠️ Contribuições para projetos open-source e colaboração em equipe.
 
