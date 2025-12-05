@@ -9,7 +9,6 @@ I'm all about turning ideas into reality through code and constantly pushing mys
 ---
 
 # 🚀 Projetos em Destaque
---
 
 ## 🔵 Live Chat – Sistema de Chat em Tempo Real  
 [https://github.com/zfrekey/LiveChat](https://github.com/zfrekey/LiveChat)  
