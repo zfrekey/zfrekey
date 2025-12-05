@@ -10,8 +10,8 @@ I'm all about turning ideas into reality through code and constantly pushing mys
 
 # 🚀 Featured Projects
 
-## 🔵 Live Chat – Real-Time Chat Application  
-[https://github.com/zfrekey/LiveChat](https://github.com/zfrekey/LiveChat)  
+## 🔵 [Live Chat – Real-Time Chat Application](https://github.com/zfrekey/LiveChat)
+ 
 A complete real-time chat system built using WebSocket, featuring a modern interface and a detailed logging system.
 
 ### Technologies:
@@ -27,8 +27,7 @@ A complete real-time chat system built using WebSocket, featuring a modern inter
 
 ---
 
-## 🟢 User Management System  
-[https://github.com/zfrekey/template-spring-boot](https://github.com/zfrekey/template-spring-boot)  
+## 🟢 [User Management System](https://github.com/zfrekey/template-spring-boot)
 A complete user management system featuring user registration, paginated search, name/CPF filtering, and PDF report generation.
 
 ### Technologies:
