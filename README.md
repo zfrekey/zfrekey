@@ -8,40 +8,41 @@ I'm all about turning ideas into reality through code and constantly pushing mys
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Featured Projects
 
-## 🔵 Live Chat – Sistema de Chat em Tempo Real  
+## 🔵 Live Chat – Real-Time Chat Application  
 [https://github.com/zfrekey/LiveChat](https://github.com/zfrekey/LiveChat)  
-Um sistema de chat em tempo real completo usando WebSocket, com interface moderna e sistema de logs detalhado.
+A complete real-time chat system built using WebSocket, featuring a modern interface and a detailed logging system.
 
-### Tecnologias:
+### Technologies:
 **Frontend:** React, TypeScript, Socket.io-client, CSS Modules  
 **Backend:** Node.js, Fastify, Socket.io, TypeScript  
-**Features:** Mensagens instantâneas, indicador de digitação, sistema de ACK, painel de logs em tempo real
+**Features:** Instant messaging, typing indicator, ACK system, real-time logging dashboard
 
-### Destaques:
-- Arquitetura client-server robusta com Socket.io  
-- Interface responsiva com animações suaves  
-- Sistema de logging completo para debug  
-- Gerenciamento de estado de digitação em tempo real  
+### Highlights:
+- Robust client-server architecture powered by Socket.io  
+- Responsive interface with smooth animations  
+- Full logging system for debugging  
+- Real-time typing state management  
 
 ---
 
-## 🟢 Sistema de Gerenciamento de Usuários  
+## 🟢 User Management System  
 [https://github.com/zfrekey/template-spring-boot](https://github.com/zfrekey/template-spring-boot)  
-Sistema completo de gerenciamento de usuários, com cadastro, busca paginada, filtro por nome/CPF e geração de relatórios em PDF.
+A complete user management system featuring user registration, paginated search, name/CPF filtering, and PDF report generation.
 
-### Tecnologias:
+### Technologies:
 **Frontend:** React, Next.js, TypeScript, CSS Modules  
 **Backend:** Spring Boot, Spring Web, Spring Data JPA, H2 Database, Lombok, JasperReports  
-**Features:** CRUD de usuários, validação de dados, paginação, filtros de busca, exportação de relatórios em PDF
+**Features:** User CRUD, data validation, pagination, search filters, PDF report export
 
-### Destaques:
-- Arquitetura em camadas 
-- API REST com paginação e filtros via query params  
-- Integração com JasperReports para geração de relatórios em PDF  
-- Organização de código orientada a boas práticas e escalabilidade
-- Interface simples e focada em produtividade para gestão de usuários  
+### Highlights:
+- Layered architecture  
+- REST API with pagination and query-based filters  
+- JasperReports integration for PDF report generation  
+- Clean, scalable code structure following industry best practices  
+- Simple and productivity-focused interface for user management  
+
 
 ---
 
