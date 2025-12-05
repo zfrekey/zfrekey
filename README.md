@@ -8,6 +8,39 @@ I'm all about turning ideas into reality through code and constantly pushing mys
 
 ---
 
+🚀 Projetos em Destaque
+--
+
+🔵 [Live Chat - Sistema de Chat em Tempo Real] (https://github.com/zfrekey/LiveChat)
+Um sistema de chat em tempo real completo usando WebSocket, com interface moderna e sistema de logs detalhado.
+
+Tecnologias:
+
+Frontend: React, TypeScript, Socket.io-client, CSS Modules
+Backend: Node.js, Fastify, Socket.io, TypeScript
+Features: Mensagens instantâneas, indicador de digitação, sistema de ACK, painel de logs em tempo real
+Destaques:
+
+- Arquitetura client-server robusta com Socket.io
+- Interface responsiva com animações suaves
+- Sistema de logging completo para debug
+- Gerenciamento de estado de digitação em tempo real
+
+---
+
+🟢 [Sistema de Gerenciamento de Usuários] (https://github.com/zfrekey/template-spring-boot)
+Um sistema de gerenciamento de Usuários completo, com busca paginada e geração de relatórios
+
+Tecnologias:
+
+Frontend: React, Next, TypeScript, CSS Modules
+Backend: Spring Boot, Spring Web, Spring JPA, H2, Lombok, JasperReports
+Features: Filtro de busca, CRUD completo, paginação, geração de relatórios em pdf
+
+Ar
+
+---
+
 ## 🛠️ My Skills
 
 ## **💻 Software Development**
